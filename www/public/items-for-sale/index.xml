@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Items For Sale on </title>
+    <link>//localhost:1313/items-for-sale/</link>
+    <description>Recent content in Items For Sale on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/items-for-sale/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
