@@ -1,4 +1,4 @@
-baseURL = "https://vidv13.github.io/savannahriverwoodturners/"
+baseURL = "https://vidv13.github.io/savannahriverwoodturners"
 languageCode = "en-us"
 theme = "poison"
 # paginate = 10
